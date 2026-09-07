@@ -1,7 +1,139 @@
 {
   "schemaVersion": 2,
-  "exportedAt": "2026-09-02T15:28:42.975Z",
+  "exportedAt": "2026-09-07T14:35:56.202Z",
   "recipes": [
+    {
+      "id": "18199cb0-1af4-45d3-9199-e069441a615f",
+      "type": "manual",
+      "title": "Frisk pasta i cremet mascarponesauce med spinat og bagte tomater",
+      "description": "En hurtig og luksuriøs hverdagsret, hvor den friske pasta vendes i en fløjlsblød mascarponesauce med frisk spinat og toppes med søde, ovnbagte cherrytomater.",
+      "ingredients": [
+        {
+          "kind": "section",
+          "title": "Bagte tomater"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "c3926f31-ee2c-47d9-8ad5-5e38d4460e11",
+          "amount": 250,
+          "unit": "g",
+          "note": "halverede"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "d709c420-68d4-4ecb-85ff-a89d2acbe6b9",
+          "amount": 1,
+          "unit": "spsk",
+          "note": ""
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "500acd03-75da-4608-aca9-ff92bd2c0e11",
+          "amount": 0.5,
+          "unit": "tsk",
+          "note": ""
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "b5cc82f8-97b2-4af3-87b1-f36fec7d3ceb",
+          "amount": 0.25,
+          "unit": "tsk",
+          "note": ""
+        },
+        {
+          "kind": "section",
+          "title": "Pasta og sauce"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "ba977b0c-867a-40d7-8375-9177e9249c01",
+          "amount": 400,
+          "unit": "g",
+          "note": "f.eks. fettuccine eller tagliatelle"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "8078cf8f-cc0b-4c88-9ca6-09806751ab91",
+          "amount": 1,
+          "unit": "stk",
+          "note": "finthakket"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "bd05c95c-478a-4d24-9bd4-8aa1c3b9bc53",
+          "amount": 2,
+          "unit": "fed",
+          "note": "finthakket"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "d709c420-68d4-4ecb-85ff-a89d2acbe6b9",
+          "amount": 1,
+          "unit": "spsk",
+          "note": "til stegning"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "a95e7c14-c90f-4d1d-878d-ae587d76d2f0",
+          "amount": 150,
+          "unit": "g",
+          "note": "skyllet"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "2ce79726-7b31-4501-af15-2d191f514c2e",
+          "amount": 150,
+          "unit": "g",
+          "note": ""
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "ac947e10-856d-425b-8134-2bdc05ffd7d2",
+          "amount": 1,
+          "unit": "dl",
+          "note": "gemmes fra kogningen"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "c7798239-4b0c-4685-bc57-99d7a9101b80",
+          "amount": 0.5,
+          "unit": "stk",
+          "note": "saften heraf"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "c3a72504-4bab-4345-be44-5a0655577b81",
+          "amount": 1,
+          "unit": "håndfuld",
+          "note": "grofthakket"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "405c33a1-531c-436a-902d-fba25d7cde08",
+          "amount": null,
+          "unit": "",
+          "note": "til smagsætning"
+        }
+      ],
+      "steps": [
+        "## Bagte tomater",
+        "Tænd ovnen på 200 grader varmluft.",
+        "Vend cherrytomaterne med olivenolie, salt og peber på en bageplade med bagepapir.",
+        "Bag tomaterne i ovnen i cirka 15 minutter, til de er møre og let rynkede.",
+        "## Pasta og sauce",
+        "Varm olivenolien op i en stor pande ved middel varme, og sauter finthakket løg og hvidløg, til de er bløde og klare.",
+        "Tilsæt den friske spinat på panden, og lad den falde sammen under omrøring i 1-2 minutter.",
+        "Kog den friske pasta i en gryde med rigeligt, saltet vand i 2-3 minutter. Husk at gemme 1 deciliter af pastavandet, inden du dræner pastaen.",
+        "Skru ned for varmen på panden, og rør mascarpone og 0,5 deciliter af det lune pastavand i spinatblandingen, til det danner en cremet sauce.",
+        "Vend forsigtigt den kogte pasta og de bagte cherrytomater i saucen. Tilsæt lidt mere pastavand, hvis retten virker for tør.",
+        "Smag retten til med citronsaft, salt og friskkværnet peber, og drys med frisk basilikum inden servering."
+      ],
+      "sourceUrl": "",
+      "aiGenerated": true,
+      "aiModel": "gemini-3.5-flash",
+      "createdAt": 1788791754255,
+      "updatedAt": 1788791754255
+    },
     {
       "id": "801f1cbc-568c-49d8-9283-8c759704e6d5",
       "type": "manual",
@@ -1600,6 +1732,48 @@
       "name": "blomkål",
       "createdAt": 1788362920955,
       "updatedAt": 1788362920955
+    },
+    {
+      "id": "c3926f31-ee2c-47d9-8ad5-5e38d4460e11",
+      "name": "cherrytomater",
+      "createdAt": 1788791754256,
+      "updatedAt": 1788791754256
+    },
+    {
+      "id": "500acd03-75da-4608-aca9-ff92bd2c0e11",
+      "name": "salt",
+      "createdAt": 1788791754257,
+      "updatedAt": 1788791754257
+    },
+    {
+      "id": "b5cc82f8-97b2-4af3-87b1-f36fec7d3ceb",
+      "name": "friskkværnet peber",
+      "createdAt": 1788791754257,
+      "updatedAt": 1788791754257
+    },
+    {
+      "id": "ba977b0c-867a-40d7-8375-9177e9249c01",
+      "name": "frisk pasta",
+      "createdAt": 1788791754258,
+      "updatedAt": 1788791754258
+    },
+    {
+      "id": "ac947e10-856d-425b-8134-2bdc05ffd7d2",
+      "name": "pastavand",
+      "createdAt": 1788791754259,
+      "updatedAt": 1788791754259
+    },
+    {
+      "id": "c7798239-4b0c-4685-bc57-99d7a9101b80",
+      "name": "citron",
+      "createdAt": 1788791754259,
+      "updatedAt": 1788791754259
+    },
+    {
+      "id": "c3a72504-4bab-4345-be44-5a0655577b81",
+      "name": "frisk basilikum",
+      "createdAt": 1788791754260,
+      "updatedAt": 1788791754260
     }
   ]
 }
