@@ -1,7 +1,91 @@
 {
   "schemaVersion": 2,
-  "exportedAt": "2026-09-07T14:35:56.202Z",
+  "exportedAt": "2026-10-05T13:42:23.944Z",
   "recipes": [
+    {
+      "id": "e0c2848d-3844-4b7c-9929-f29826670d87",
+      "type": "manual",
+      "title": "Nem hokkaidosuppe",
+      "description": "En cremet og varmende hokkaidosuppe med blide krydderier og lækker smag.",
+      "ingredients": [
+        {
+          "kind": "ingredient",
+          "ingredientId": "26b4c3e8-6f4b-48b0-be7b-88a605136c1c",
+          "amount": 1,
+          "unit": "stk",
+          "note": "skræmt og udkernet, i tern"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "8078cf8f-cc0b-4c88-9ca6-09806751ab91",
+          "amount": 1,
+          "unit": "stk",
+          "note": "finthakket"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "bd05c95c-478a-4d24-9bd4-8aa1c3b9bc53",
+          "amount": 2,
+          "unit": "fed",
+          "note": "finthakket"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "d709c420-68d4-4ecb-85ff-a89d2acbe6b9",
+          "amount": 2,
+          "unit": "spsk",
+          "note": "til stegning"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "7e1545d3-3624-4e3d-a77a-ff63b9b36acc",
+          "amount": 1,
+          "unit": "tsk",
+          "note": ""
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "c2a75204-f03a-4d96-9391-801152fe8cd0",
+          "amount": 8,
+          "unit": "dl",
+          "note": ""
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "810c7b3c-2807-42b0-8313-0b2255a9c034",
+          "amount": 400,
+          "unit": "ml",
+          "note": "1 dåse"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "500acd03-75da-4608-aca9-ff92bd2c0e11",
+          "amount": null,
+          "unit": "",
+          "note": "til smagsætning"
+        },
+        {
+          "kind": "ingredient",
+          "ingredientId": "b5cc82f8-97b2-4af3-87b1-f36fec7d3ceb",
+          "amount": null,
+          "unit": "",
+          "note": "til smagsætning"
+        }
+      ],
+      "steps": [
+        "Varm olivenolien op i en stor gryde ved middelvarme.",
+        "Tilsæt finthakket løg og hvidløg, og svits indtil løgene er klare og bløde.",
+        "Tilsæt spidskommen og hokkaido-tern, og rør godt rundt i et minuts tid.",
+        "Hæld grøntsagsbouillon i gryden, læg låg på, og lad det simre i cirka 15 minutter, indtil græskarret er helt mørt.",
+        "Blend suppen helt glat med en stavblender.",
+        "Rør hele dåsen kokosmælk i suppen, lad den varme igennem, og smag til med salt og friskkværnet peber."
+      ],
+      "sourceUrl": "",
+      "aiGenerated": true,
+      "aiModel": "gemini-3.5-flash-lite",
+      "createdAt": 1791207741429,
+      "updatedAt": 1791207741429
+    },
     {
       "id": "18199cb0-1af4-45d3-9199-e069441a615f",
       "type": "manual",
@@ -1774,6 +1858,12 @@
       "name": "frisk basilikum",
       "createdAt": 1788791754260,
       "updatedAt": 1788791754260
+    },
+    {
+      "id": "26b4c3e8-6f4b-48b0-be7b-88a605136c1c",
+      "name": "hokkaido",
+      "createdAt": 1791207741430,
+      "updatedAt": 1791207741430
     }
   ]
 }
